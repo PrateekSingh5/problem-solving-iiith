@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Demo file of srip
 
 new changes in the file
+=======
+
+>>>>>>> e181020a87e69d841e602e6cb6c1331e43c0ecab
